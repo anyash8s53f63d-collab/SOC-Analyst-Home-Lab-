@@ -1,0 +1,53 @@
+
+# Splunk-Based SOC Analyst Home Lab
+
+## Project Overview
+A hands-on Security Operations Center (SOC)
+home lab built using Splunk Enterprise,
+Splunk Universal Forwarder, Windows and Ubuntu.
+
+## Objectives
+- Centralized security log collection
+- Windows and Linux endpoint monitoring
+- SPL-based threat detection
+- Security alert investigation
+- MITRE ATT&CK mapping
+- SOC dashboard development
+- Incident response documentation
+
+## Technology Stack
+- Splunk Enterprise
+- Splunk Universal Forwarder
+- Ubuntu Linux
+- Windows 10/11
+- Splunk Processing Language (SPL)
+- MITRE ATT&CK
+
+## Lab Architecture
+Windows Endpoint → Universal Forwarder
+Ubuntu Endpoint → Universal Forwarder
+Both → Splunk Enterprise SIEM
+
+## Project Progress
+- [ ] Install Ubuntu SIEM server
+- [ ] Install Splunk Enterprise
+- [ ] Configure receiving port 9997
+- [ ] Connect Windows Universal Forwarder
+- [ ] Connect Ubuntu Universal Forwarder
+- [ ] Collect Windows Security Events
+- [ ] Collect Linux Authentication Logs
+- [ ] Develop SPL detection queries
+- [ ] Create security alerts
+- [ ] Build SOC dashboard
+- [ ] Map detections to MITRE ATT&CK
+- [ ] Document security investigations
+
+## Evidence
+Screenshots, detection queries, dashboards
+and investigation reports will be added
+as the project progresses.
+
+## Disclaimer
+This is an educational defensive security
+lab using systems owned or authorized
+for monitoring and testing.
