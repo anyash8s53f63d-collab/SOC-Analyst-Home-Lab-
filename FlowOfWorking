@@ -8,3 +8,10 @@ Wait for the download to finish.
 Open Windows Downloads and verify the ISO file exists.
 
 connecting splunk into the linux an envirnoment
+
+Work Done: 
+Setup Ubuntu SIEM environment 
+
+Configure Splunk receiving port
+
+Install Windows Universal Forwarder
