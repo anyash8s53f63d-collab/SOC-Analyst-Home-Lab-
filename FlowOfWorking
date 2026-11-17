@@ -17,3 +17,37 @@ Configure Splunk receiving port
 Install Windows Universal Forwarder
 
 next work done after exam 
+
+3. Your 14-day implementation plan
+Day            Work                                 Deliverable
+1         Ubuntu VM setup                        Working Ubuntu
+2        Install Splunk Enterprise         Splunk Web accessible
+3        Configure receiving port           Port 9997 enabled
+4     Install Windows Forwarder               Windows connected
+5      Install Ubuntu Forwarder            Linux connected        currently here17nov;
+6     Configure Windows logs              Security events indexed
+7
+Configure Linux logs
+Authentication events indexed
+8
+Learn SPL
+First 10 searches
+9
+Windows detection rules
+Detection queries
+10
+Linux detection rules
+Detection queries
+11
+Configure alerts
+Alert evidence
+12
+Build dashboard
+SOC dashboard
+13
+Investigate incidents
+Incident reports
+14
+MITRE mapping and GitHub
+Completed portfolio
+
